@@ -1,0 +1,5 @@
+API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2163564 -> GDP_SG
+https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=SG
+
+graduate-employment-survey-ntu-nus-sit-smu-suss-sutd -> GES_SG_2013-2018
+https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd
