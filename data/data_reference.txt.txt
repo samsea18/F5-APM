@@ -6,3 +6,7 @@ https://data.gov.sg/dataset/graduate-employment-survey-ntu-nus-sit-smu-suss-sutd
 
 Labour_Force_SG & Labour_Force_SG-Metadata_14821
 https://www.tablebuilder.singstat.gov.sg/publicfacing/createDataTable.action?refId=14821
+
+Gross Domestic Product At Current & Chained Prices, By Industry (SSIC 2015 Version 2018), Annual -> GDP_Current_and_Chained_Prices_By_Industry
+https://www.tablebuilder.singstat.gov.sg/publicfacing/selectVariables.action
+
