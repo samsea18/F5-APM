@@ -1,5 +1,7 @@
 # F5-APM
-# This is the NUS-EBAC APM project repository for Team Fantastic 5
+* This is the NUS-EBAC APM project repository for Team Fantastic 5
+
+* This project analyzed the relationship between Singapore's GDP & Graduate Employment (from 2013-2019) and made recommendations to re-calibrate education resources to support each industry's GDP growth.
 
 ## Directories:
 * Data           - Contains all the processed Datasets we used for this project
